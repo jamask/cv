@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  width: 1024px;
+  margin: 0 auto;
+  font-family: "Arial", sans-serif;
+}
+
+h2 {
+  padding-top: 45px;
+}
+
+img {
+  float: left;
+  padding: 15px;
+}
+
+.clear {
+  clear: left;
+}
+
+h3 {
+  text-transform: uppercase;
+  padding: 15px 0 5px 0;
+}
+
+ul {
+  list-style-position: inside;
+}
