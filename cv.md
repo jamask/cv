@@ -24,24 +24,16 @@ I am a system administator with a good knowledge. And most of my skills and expe
 ### Education
 
 * 2003-2007
-  Kostanay State Pedagogical Institut
-  Faculty of Physics and Mathematics
-  Specialty Mathematics and Informatics
+  Kostanay State Pedagogical Institut, Faculty of Physics and Mathematics, Specialty Mathematics and Informatics
 
-* coursera.org courses
-  html5, css3, Javascript
+* coursera.org courses: html5, css3, Javascript
 
-* codecademy.com courses
-  html5, css3, Javascript
+* codecademy.com courses: html5, css3, Javascript
 
-* stepik.org
-  Algorithms and Data Structures
+* stepik.org: Algorithms and Data Structures
 
 ### Languages
 
 - Kazakh — Native
 - English — B1 — Intermediate
 - Russian — C2 — Proficiency
-
-
-
