@@ -1,1 +1,1 @@
-# rsschool-cv
+[My SV](https://jamask.github.io/rsschool-cv/cv)
